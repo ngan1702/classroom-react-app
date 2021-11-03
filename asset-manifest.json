@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ngan1702/classroom-react-app.git/static/css/main.11e44a5e.chunk.css",
+    "main.js": "/ngan1702/classroom-react-app.git/static/js/main.d48bdf72.chunk.js",
+    "main.js.map": "/ngan1702/classroom-react-app.git/static/js/main.d48bdf72.chunk.js.map",
+    "runtime-main.js": "/ngan1702/classroom-react-app.git/static/js/runtime-main.b008e1cf.js",
+    "runtime-main.js.map": "/ngan1702/classroom-react-app.git/static/js/runtime-main.b008e1cf.js.map",
+    "static/js/2.1d757ed7.chunk.js": "/ngan1702/classroom-react-app.git/static/js/2.1d757ed7.chunk.js",
+    "static/js/2.1d757ed7.chunk.js.map": "/ngan1702/classroom-react-app.git/static/js/2.1d757ed7.chunk.js.map",
+    "index.html": "/ngan1702/classroom-react-app.git/index.html",
+    "static/css/main.11e44a5e.chunk.css.map": "/ngan1702/classroom-react-app.git/static/css/main.11e44a5e.chunk.css.map",
+    "static/js/2.1d757ed7.chunk.js.LICENSE.txt": "/ngan1702/classroom-react-app.git/static/js/2.1d757ed7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b008e1cf.js",
+    "static/js/2.1d757ed7.chunk.js",
+    "static/css/main.11e44a5e.chunk.css",
+    "static/js/main.d48bdf72.chunk.js"
+  ]
+}
